@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 from streamlit_option_menu import option_menu
 from streamlit_player import st_player
-from pipeline import input_func, helper_func
+
 import streamlit.components.v1 as components
 #transformer = joblib.load('transformer.sav')
 #pca = joblib.load('pca.sav')
